@@ -1,10 +1,9 @@
 ---
 name: joyful-resistance
-description: Audit causes, movements, or organizations for joylessness and integrate
-  beauty, celebration, and joy into resistance.
+description: Audit causes, movements, or organizations for joylessness and integrate beauty, celebration, and joy into resistance.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - comedy
